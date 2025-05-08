@@ -10,7 +10,7 @@ DESTINATIONS = {
     'Executáveis': ['.exe', '.msi'],
     'Compactados': ['.zip', '.rar', '.7z'],
     'Vídeos': ['.mp4', '.avi', '.mov'],
-    'Outros': []  # Para o resto
+    'Outros': [] 
 }
 
 def escolher_pasta():
